@@ -8,7 +8,7 @@ Just started my journey on October 2023 to pursue my bachelors degree. I hope I 
 
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [imanabadi@graduarte.utm.my](mailto:imanabadi@graduarte.utm.my)
-* 🧠  I'm learning Programming in C++
+* 🧠  I'm currently learning programming in C++
 
 ### Skills
 
