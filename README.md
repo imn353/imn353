@@ -38,6 +38,8 @@ Just started my journey on October 2023 to pursue my bachelors degree. I hope I 
 * Sijil Pelajaran Malaysia : 8A 2B
 * Treasurer of Computer Science Club
 * MUET 2023 Band 4.5
+
+### Honours and Awards
 * Sijil Pencapaian HPNG 4.00 UPU Program Asasi Sains Semester 1
 * Sijil Pencapaian HPNG 4.00 UPU Program Asasi Sains Semester 2
 * Sijil Pencapaian HPNG 4.00 UiTM Program Asasi Sains Semester 2
