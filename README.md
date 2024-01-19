@@ -29,5 +29,18 @@ Just started my journey on October 2023 to pursue my bachelors degree. I hope I 
 * Digital Logic - https://github.com/imn353/Digital-Logic
 * Integrity and Anti-Corruption Course - https://github.com/imn353/Integrity-and-Anti-Corruption
 
+### Education
+* Secondary : Maktab Sultan Abu Bakar
+* Pre-University : Foundation in Science at University Technology Mara (UiTM) Dengkil Campus
+* Bachelors : Bachelors Degree in Computer Science (Data Engineering) at University Technology Malaysia (UTM)
+
+### Certificate
+* Sijil Pelajaran Malaysia : 8A 2B
+* Treasurer of Computer Science Club
+* MUET 2023 Band 4.5
+* Sijil Pencapaian HPNG 4.00 UPU Program Asasi Sains Semester 1
+* Sijil Pencapaian HPNG 4.00 UPU Program Asasi Sains Semester 2
+* Sijil Pencapaian HPNG 4.00 UiTM Program Asasi Sains Semester 2
+
 
 
