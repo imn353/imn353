@@ -24,9 +24,9 @@ Just started my journey on October 2023 to pursue my bachelors degree.
 
 ### Courses
 
-* <a href = https://github.com/imn353/Technology-and-Information-System>Technology and Information System </a>
-*<a href = https://github.com/imn353/Technology-and-Information-System> Pogramming Technique I  </a>
-**<a href = https://github.com/imn353/Discrete-Structure> Discrete Structure </a>
+*<p><a href = https://github.com/imn353/Technology-and-Information-System>Technology and Information System </a></p>
+*<p><a href = https://github.com/imn353/Technology-and-Information-System> Pogramming Technique I  </a></p>
+*<p><a href = https://github.com/imn353/Discrete-Structure> Discrete Structure </a></p>
 * Discrete Structure - https://github.com/imn353/Discrete-Structure
 * Digital Logic - https://github.com/imn353/Digital-Logic
 * Integrity and Anti-Corruption Course - https://github.com/imn353/Integrity-and-Anti-Corruption
