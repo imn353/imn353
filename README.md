@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bachelors of Computer Science (Data Engineering)
 ------------------------------------------------
 
-Just started my journey on October 2023 to pursue my bachelors degree. Check out my profile <a href = https://imn353.github.io/index.html>here</a>
+Just started my journey on October 2023 to pursue my bachelors degree. Check out my portfolio <a href = https://imn353.github.io/index.html>here</a>
 
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [imanabadi@graduarte.utm.my](mailto:imanabadi@graduarte.utm.my)
