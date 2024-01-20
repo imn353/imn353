@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bachelors of Computer Science (Data Engineering)
 ------------------------------------------------
 
-Just started my journey on October 2023 to pursue my bachelors degree. I hope I can
+Just started my journey on October 2023 to pursue my bachelors degree.
 
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [imanabadi@graduarte.utm.my](mailto:imanabadi@graduarte.utm.my)
