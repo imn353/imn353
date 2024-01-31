@@ -28,7 +28,6 @@ Just started my journey on October 2023 to pursue my bachelors degree. Check out
 <a href = https://github.com/imn353/Technology-and-Information-System> Pogramming Technique I  </a><br>
 <a href = https://github.com/imn353/Discrete-Structure> Discrete Structure </a><br>
 <a href = https://github.com/imn353/Digital-Logic > Digital Logic </a><br>
-<a href = https://github.com/imn353/Integrity-and-Anti-Corruption > Integrity and Anti-Corruption Course </a></p>
 
 ### Education
 * Secondary : Maktab Sultan Abu Bakar
