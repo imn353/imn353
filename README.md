@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bachelors of Computer Science (Data Engineering)
 ------------------------------------------------
 
-Just started my journey on October 2023 to pursue my bachelors degree. Check out my portfolio <a href = https://imn353.github.io/index.html>here</a>
-
+Started my journey on October 2023 to pursue my bachelors degree.
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [imanabadi@graduarte.utm.my](mailto:imanabadi@graduarte.utm.my)
 * 🧠  I'm currently learning programming in C++
@@ -22,27 +21,10 @@ Just started my journey on October 2023 to pursue my bachelors degree. Check out
 <p align="left"> <a href="https://www.github.com/imn353" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.linkedin.com/in/iman-abadi-mohd-nizwan-16b3a829a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Courses
-
-<p><a href = https://github.com/imn353/Technology-and-Information-System>Technology and Information System </a><br>
-<a href = https://github.com/imn353/Technology-and-Information-System> Pogramming Technique I  </a><br>
-<a href = https://github.com/imn353/Discrete-Structure> Discrete Structure </a><br>
-<a href = https://github.com/imn353/Digital-Logic > Digital Logic </a><br>
-
 ### Education
 * Secondary : Maktab Sultan Abu Bakar
 * Pre-University : Foundation in Science at University Technology Mara (UiTM) Dengkil Campus
 * Bachelors : Bachelors Degree in Computer Science (Data Engineering) at University Technology Malaysia (UTM)
-
-### Certificate
-* Sijil Pelajaran Malaysia : 8A 2B
-* Treasurer of Computer Science Club
-* MUET 2023 Band 4.5
-
-### Honours and Awards
-* Sijil Pencapaian HPNG 4.00 UPU Program Asasi Sains Semester 1
-* Sijil Pencapaian HPNG 4.00 UPU Program Asasi Sains Semester 2
-* Sijil Pencapaian HPNG 4.00 UiTM Program Asasi Sains Semester 2
 
 
 
