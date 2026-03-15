@@ -15,7 +15,7 @@ Hi! I am Iman Abadi Bin Mohd Nizwan
 
 📜 Certificates
 ------------------------------------------------
-[[Microsoft Certified: Azure Data Fundamentals]([https://www.example.com](https://www.credly.com/badges/963d301c-6d29-45b1-a3c7-1758292ef0f1/public_url))]
+[Microsoft Certified: Azure Data Fundamentals](https://www.example.com](https://www.credly.com/badges/963d301c-6d29-45b1-a3c7-1758292ef0f1/public_url))
  
 
 📱 Socials
