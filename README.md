@@ -11,7 +11,7 @@ Hi! I am Iman Abadi Bin Mohd Nizwan
 
 🔨 Tools and Skills
 ------------------------------------------------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,git,github,java,mongodb,mysql,php,py,sklearn,md,vscode)]{:target="_blank"}
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,git,github,java,mongodb,mysql,php,py,sklearn,md,vscode)](){:target="_blank"}
 
 📜 Certificates
 ------------------------------------------------
