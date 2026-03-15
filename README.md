@@ -4,10 +4,10 @@ Hi! I am Iman Abadi Bin Mohd Nizwan
 
 👨‍💻 About Me
 ------------------------------------------------
-🎓 Currently studying a Bachelor's of Computer Science (Data Engineering)
-💡 Interested in Data Engineering and Cloud Technologies
-🎯 Goal: Handling data engineering projects using various cloud technologies
-📍 Based in Johor Bahru
+🎓 Currently studying a Bachelor's of Computer Science (Data Engineering)<br>
+💡 Interested in Data Engineering and Cloud Technologies<br>
+🎯 Goal: Handling data engineering projects using various cloud technologies<br>
+📍 Based in Johor Bahru<br>
 
 🔨 Tools and Skills
 ------------------------------------------------
